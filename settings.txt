@@ -1,4 +1,4 @@
-Chat_GPT_API: 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
+Chat_GPT_API: YOUR_API_KEY
 GPT_model: gpt-3.5-turbo
-Path_Vosk_model: /Users/vladislavershov/Desktop/Voice_Chat_GPT/vosk-model-small-ru-0.22
+Path_Vosk_model: FULL_PATH_TO_VOSK_MODEL
 Rate: 16000
